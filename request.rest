@@ -1,0 +1,10 @@
+GET http://localhost:5050
+###
+GET http://localhost:6060/orders/
+
+
+###
+GET http://localhost:6060/
+
+###
+GET http://localhost:6060/localhost:6060/orders
